@@ -1,0 +1,27 @@
+{
+  "name": "muzjia",
+  "version": "1.0.0",
+  "description": "muzjia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/changsong/muzjia.git"
+  },
+  "keywords": [
+    "muzjia"
+  ],
+  "author": "changsong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/changsong/muzjia/issues"
+  },
+  "homepage": "https://github.com/changsong/muzjia#readme",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}

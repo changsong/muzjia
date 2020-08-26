@@ -175,6 +175,3 @@ php、js、css、h5、c#、c++、mysql、redis等
 
 ##### 教育经历
 2010.05 - 2014.03 XXXX学院  计算机科学与技术   本科
-
-
-%[{ contactme.md }]%

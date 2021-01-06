@@ -60,7 +60,6 @@ module.exports = {
           "/resume/": resumeSidebar,
           "/interview/": interviewSidebar,
           "/tech/": [
-                    '',
                     'code-guide/ali_code_guide',
                     'code-guide/html_guide',
                     'code-guide/javascript_guide',

@@ -12,5 +12,5 @@ features:
   details: 包含编码规范,数据结构与算法，常用框架，系统优化，架构设计，服务器，分布式，数据库等知识。
 - title: 优秀简历样本
   details: 包含工程师,架构师,测试工程师优秀简历样本。
-footer: MIT Licensed | Copyright © 2020-MUZJIA.COM
+footer: Copyright © 2020-MUZJIA.COM 京ICP备09017470号-2 https://beian.miit.gov.cn/
 ---
